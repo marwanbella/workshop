@@ -1,0 +1,5 @@
+#map negeren
+testMap/
+
+#bestand negeren
+/test2.txt
